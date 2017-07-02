@@ -1,0 +1,19 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.29",
+    "moment": "^2.18.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node timestamp/server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tony-molumby/timestamp-microservice1.git"
+  }
+}

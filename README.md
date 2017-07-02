@@ -1,2 +1,2 @@
-# timestamp-microservice1
-Timestamp microservice which accepts a string or unix time and returns a JSON object
+# TimeStamp-Microservice 
+This microservice takes a unix or human readable date supplied from a url path and returns an object with both the unix timestamp and human readable format.
